@@ -1,0 +1,28 @@
+The number of attacker platforms and number of defender platforms:
+3  3
+
+The kill probability matrix of the attacker to defender:
+0.37  0.55  0.39  
+0.71  0.39  0.3  
+0.31  0.45  0.41 
+
+The interference probability matrix of the attacker to defender: 
+0.63  0.56  0.46  
+0.56  0.68  0.42  
+0.6  0.44  0.61  
+
+The value vector of attacker:
+53  58  84  
+
+The kill probability matrix of the defender to attacker:
+0.54  0.44  0.3  
+0.86  0.87  0.44  
+0.83  0.41  0.51  
+
+The interference probability matrix of the defender to attacker:
+0.66  0.41  0.53  
+0.33  0.39  0.37  
+0.42  0.69  0.44  
+
+The value vector of defender:
+49  61  58  
